@@ -1,0 +1,34 @@
+.body{
+  padding: 0;
+  margin: 0;
+}
+h1{
+	background-color:#blue;
+}
+
+/* .one{
+	background-color:#E84A27;
+} */
+hr.rounded {
+  border-top: 8px solid #133f86;
+  border-radius: 5px;
+}
+.Parent{
+	display: flex;
+  flex-direction: row;
+}
+  
+.child1{
+  width: 50%;
+  height: 100vh;
+  background-color: #e8902c;
+/*   text-align: right; */
+  color: white;
+}
+  
+.child2{
+  width: 50%;
+  color: black;
+	background-color: lightblue;
+  height: 100vh;
+}
